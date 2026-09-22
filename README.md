@@ -17,8 +17,8 @@ p {color:##61d800;}
 <h2> What did she do </h2>
 <p> I dont know! </p>
 <p> <i>I hope my website works please.</i></p>
-<p> <i>Colin is next to me and he needs help.Im going to help him</i>
-<p> <a href="https://classroom.google.com/c/ODcxNzc4ODE0NTUy">you can join computer science too</a> </p>
-<img src="file:///home/PublicPWwhitney/Downloads/images.jpeg" alt="image">
+<p> <i> I think that Helen Keller wrote a book even though she was blind. </i>
+<p> <a href="https://classroom.google.com/c/ODcxNzc4ODE0NTUy">Helen Keller stuff too</a> </p>
+<img src="[file:///home/PublicPWwhitney/Downloads/images.jpeg](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSUpTZLnG6rAheU5PqWHiBgeec7ckgyKdFhOBgr9RQ81R5-UZGCUpaI-PQEfctu2nuPePWmMHCx0TwaoNYjDPAt-CJn4xgg-jWWCkPFQKXxVWVuOOa24gRBbEB2esFq5Uzmgu4bw1Ou3xbi&s=19)" alt="image">
 </body>
 </html>
