@@ -5,7 +5,7 @@
 </head>
 <body>
 <style>
-body {background:##fff2df;}
+body {background:#fff2df;}
 h1 {color:#000000;}
 h2 {color:#000000;} 
 h3 {color:#000000;}
@@ -25,5 +25,3 @@ p {color:#472100;}
 <p> <a href="https://www.womenshistory.org/education-resources/biographies/helen-keller">Through this link, you can learn more about Helen Keller </a> </p>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAIDLTmy7O0GpEOmeq5v5bhbyMJImpyLH4Nq7RrEbaA&s=10" alt="image">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK266ohjeX_8hjPkPqx2EEepTGjgVRglCtU-W7-InEJg&s=10" alt="image">
-</body>
-</html>
