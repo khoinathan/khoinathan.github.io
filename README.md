@@ -18,6 +18,8 @@ p {color:##61d800;}
 <p> Helen Keller proved to many people that even though she was disabled, she can do great things </p>
 <p> <i> Helen Keller also became an author, lecturer, and global advocate for people with disabilities.</i></p>
 <p> <i> I think that Helen Keller wrote a book even though she was blind. </i>
-<p> <a href="[https://classroom.google.com/c/ODcxNzc4ODE0NTUy](https://www.womenshistory.org/education-resources/biographies/helen-keller)">Through this link, you can learn more about Helen Keller </a> </p>
-<img src="" alt="image">
-<img src="" alt="image">
+<p> <a href="https://www.womenshistory.org/education-resources/biographies/helen-keller">Through this link, you can learn more about Helen Keller </a> </p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAIDLTmy7O0GpEOmeq5v5bhbyMJImpyLH4Nq7RrEbaA&s=10" alt="image">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK266ohjeX_8hjPkPqx2EEepTGjgVRglCtU-W7-InEJg&s=10" alt="image">
+</body>
+</html>
