@@ -5,7 +5,7 @@
 </head>
 <body>
 <style>
-body {background:#fff2df;}
+body {background:#eac898;}
 h1 {color:#000000;}
 h2 {color:#000000;} 
 h3 {color:#000000;}
