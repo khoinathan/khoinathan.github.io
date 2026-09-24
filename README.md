@@ -5,10 +5,10 @@
 </head>
 <body>
 <style>
-body {background:#defabb;}
-h1 {color:#008b00;}
-h2 {color:#008b00;}
-p {color:##61d800;}
+body {background:##fff2df;}
+h1 {color:#000000;}
+h2 {color:#000000;}
+p {color:#472100;}
 </style>
 <h1> Helen Keller </h1>
 <p> Helen Keller was born on June 20, 1980 </p>
