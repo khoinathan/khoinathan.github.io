@@ -13,7 +13,7 @@ p {color:#472100;}
 </style>
 <h1> Helen Keller </h1>
 <p> Helen Keller was born on June 20, 1980 </p>
-<p> Helen Keller had many disadvantages/p>
+<p> Helen Keller had many disadvantages </p>
 <p> She was blind and also deaf.</p>
 <h2> What did she do? </h2>
 <p> Helen Keller proved to many people that even though she was disabled, she can do great things </p>
